@@ -1,5 +1,5 @@
 
-# 🔵 Blue Boy Adventure — Java 2D Game  
+# 🔵 Treasure hunt — Java 2D Game  
 *A simple top-down adventure game where you find three keys, unlock three doors, and claim the treasure!*  
 
 This project is the **first part** of the Java 2D Game Dev series by **RyiSnow**.  
