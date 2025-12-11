@@ -84,5 +84,3 @@ Do not redistribute the original assets from RyiSnow commercially.
 ---
 
 Enjoy hacking & improving this little adventure game! 😊
-
-```
